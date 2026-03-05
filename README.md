@@ -19,12 +19,12 @@
 
 - [`Omni Mulinex Joystick`](https://github.com/CentroEPiaggio/omni_mulinex_joystick): Joystick controller for teleoperating Mulinex robots. --- (May be removed in the future as Mulinex SBC Workspace has it (not as a submodule).)
 
-## High-Level ROS 2 Controllers
+## High-Level Control
 
 <details>
-<summary> Model-Based Controllers - click to expand</summary>
+<summary> Model-Based Control - click to expand</summary>
 
-### Model-Based Controllers
+### Model-Based Control
 
 #### Davide De Benedittis
 
@@ -34,8 +34,21 @@
 </details>
 
 <details>
-<summary> Learning-Based Controllers - click to expand</summary>
+<summary> Learning-Based Control - click to expand</summary>
 
-### Learning-Based Controllers
+### Learning-Based Control
+
+#### Simone Tolomei et al.
+
+- [`Isaac Centro Piaggio Suite`](https://github.com/CentroEPiaggio/isaac_centropiaggio_suite): Isaac Lab extension for RL. **WIP**. Will include pick and throw, perceptive manipulation, locomotion (Otto, OmniQuad, TrackQuad), and more.
+
+</details>
+
+## Utilities
+
+<details>
+<summary> Various utilities - click to expand</summary>
+
+- [`IKEA Interface`](https://github.com/CentroEPiaggio/IKEA_interface): tool that automatically searches, downloads, and processes 3D assets from the IKEA dataset into URDF format.
 
 </details>
