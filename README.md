@@ -8,6 +8,10 @@
 
 - [`mulinex_description`](https://github.com/CentroEPiaggio/mulinex_description): URDF description of Mulinex robots (Otto, OmniQuad, OmniGoat, OmniCar).
 
+## Simulation
+
+- [`mulinex_gazebo`](https://github.com/CentroEPiaggio/mulinex_gazebo/tree/main): Gazebo simulation of Mulinex robot(s?).
+
 ## Hardware & Low-Level ROS 2 Controller
 
 - [`Docker NUC Mulinex`](https://github.com/CentroEPiaggio/docker_nuc_mulinex): Docker configuration for the NUC of the Mulinex project.
